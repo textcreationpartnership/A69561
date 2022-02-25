@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from Rome, or, A relation of the Pope and his patentees pilgrimage into hell with their entertainment and the popes returne backe againe to Rome : with an elegiacall confabulation betweene Death and Honour : a lecture which may be read to the greatest monarch in the world.</title>
+            <author>T. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69561</idno>
+            <idno type="STC">Wing B192</idno>
+            <idno type="STC">ESTC R12317</idno>
+            <idno type="EEBO-CITATION">12744645</idno>
+            <idno type="OCLC">ocm 12744645</idno>
+            <idno type="VID">93211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E158, no 18 or 806:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from Rome, or, A relation of the Pope and his patentees pilgrimage into hell with their entertainment and the popes returne backe againe to Rome : with an elegiacall confabulation betweene Death and Honour : a lecture which may be read to the greatest monarch in the world.</title>
+                  <author>T. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.B.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Item at reel 253:E.158, no. 18 is identified in reel guide as N994 (number cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of originals in Thomason Collection, British Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Innocent --  XI, --  Pope, 1611-1689.</term>
+               <term>Great Britain --  Religion --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93211:1" rendition="simple:additions"/>
+            <p>NEVVES FROM <hi>ROME. OR</hi> A Relation of the Pope and his Patentees Pilgrimage into Hell, with their entertain<g ref="char:EOLhyphen"/>ment, and the Popes returne backe againe to ROME.</p>
+            <p>With an Elegiacall Confabulation betweene DEATH and HONOUR.</p>
+            <p>A Lecture which may be read to the greateſt Monarch in the world.</p>
+            <figure>
+               <head>Eſtote proditoros Betraye Your Country</head>
+               <figDesc>woodcut, depicting the Pope astride a hydra</figDesc>
+            </figure>
+            <p>Printed in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93211:2"/>
+            <pb facs="tcp:93211:2"/>
+            <div type="part">
+               <head>NEVVES FROM <hi>ROME. OR</hi> A Relation of the Pope and his Patentees Pilgrimage into Hell, with their entertain<g ref="char:EOLhyphen"/>ment, and the Popes returne backe againe to ROME.</head>
+               <lg>
+                  <l>THe <hi>Stigian</hi> King for honour to his Court</l>
+                  <l>Now ſits in ſtate, delighting in the ſport</l>
+                  <l>His Furies make him, but they had not long</l>
+                  <l>Practis'd their helliſh Gambolls, when a throng</l>
+                  <l>Of unknowne gueſts were ſeene, <hi>Pluto</hi> 'gan frowne,</l>
+                  <l>Their Leader did not vayle his triple crowne;</l>
+                  <l>Then with a contract brow he thus beſpake,</l>
+                  <l>Cannot our frowne make this ſame vaſſall quake.</l>
+                  <l>Then fell the Pope upon his bended knee,</l>
+                  <l>And cryes, how fares your gracious Majeſtie.</l>
+                  <l>At length looking about he doth there ſee,</l>
+                  <l>Sterne <hi>Rhadamanthus,</hi> with the Furies three;</l>
+                  <l>Three-headed <hi>Cerberus,</hi> then he doth ſpy</l>
+                  <l>
+                     <hi>Jxions</hi> wheele, and <hi>Theſeus</hi> miſery.</l>
+                  <l>All ſtanding round about him, as to heare</l>
+                  <l>Some unknown matter, his ſpeech was ſtopt by feare.</l>
+                  <l>At l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt forgetting feare, he lowd doth call</l>
+                  <l>Unto his God for juſtice, that the Hall</l>
+                  <pb n="4" facs="tcp:93211:3"/>
+                  <l>Did ring with Eccho, making his complaint</l>
+                  <l>Againſt the <hi>Engliſh,</hi> till he grew quite ſaint.</l>
+                  <l>At length he thus proceeded, and did ſay</l>
+                  <l>They ſcorne my ſervants, and me diſobay.</l>
+                  <l>But ſome there are who to me faithfull were,</l>
+                  <l>But they are gone, th'are fled I know not where.</l>
+                  <l>My <hi>Goldfinch, Windebanke,</hi> my <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uckling</hi> young,</l>
+                  <l>Who could ſo well pray in ovr Roman tongue;</l>
+                  <l>Are gon for feare of chiding, O they would</l>
+                  <l>Have elevated me, if that they could.</l>
+                  <l>My chiefeſt Prelate there they keepe in thrall,</l>
+                  <l>Who ſtands in feare to ſmell the Judgement hall.</l>
+                  <l>My Iuſh King is dead, he would be ſo,</l>
+                  <l>But O my <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nes doe fall, ev'n by my foe.</l>
+                  <l>Now having fi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, he aloud do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h call</l>
+                  <l>Unto his patent friends, that they ſhould fall</l>
+                  <l>Each on his knee, preſenting each his gift,</l>
+                  <l>Thinking to gaine great favour was his drift.</l>
+                  <l>The firſt Tobacco in a pipe well ſtuft</l>
+                  <l>Preſents to <hi>Pluto</hi> (after i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> was puft)</l>
+                  <l>Which when the black <hi>Tartarian</hi> god did ſmell,</l>
+                  <l>He fretted, fumed, and ſaid, Is not Hell</l>
+                  <l>Stored enough with baſe ſulphurious ſmoke,</l>
+                  <l>But you muſt thus conſpire me here to choake;</l>
+                  <l>Is not our perſon ſtored with fumes enough,</l>
+                  <l>That you muſt here preſent us ſuch a ſnuffe;</l>
+                  <l>Baſe Varlet, with Heatheniſh Indian weed,</l>
+                  <l>I preſent, I abhorre, and for this deed,</l>
+                  <l>I doe exile thee, never to come neare</l>
+                  <l>Our Court againe, without continuall feare;</l>
+                  <l>Lordaine to that faire <hi>Elizians</hi> field,</l>
+                  <l>Nor joy nor comfort to thee ere ſhall yeeld;</l>
+                  <pb n="5" facs="tcp:93211:3"/>
+                  <l>But thou with <hi>Tantalus</hi> ſhalt ſtand, and thirſt,</l>
+                  <l>For thou from henceforth ever art accurſt.</l>
+                  <l>Tobacco gone, no longer it muſt ſtay</l>
+                  <l>But like a chimney ſmoke vaniſh away.</l>
+                  <l>Then down falls Soap, thinking cleane out to waſh</l>
+                  <l>Tobacco's ſtaine, but ſterne <hi>Megaeraes</hi> laſh</l>
+                  <l>Doth force him up, the Pope doth weep to ſee,</l>
+                  <l>Soap larders out of <hi>Plntoes</hi> companie:</l>
+                  <l>Then <hi>Bacchus</hi> friend upon his knee doth fall</l>
+                  <l>Preſenting that which bitter was as Gall,</l>
+                  <l>The price of Wine I meane, but <hi>Pluto</hi> he</l>
+                  <l>Foreknowing of his plots his ſigne would ſee;</l>
+                  <l>Then of his pocket paper out he drew,</l>
+                  <l>Wherein pourtrayed was in lively hue</l>
+                  <l>The forme of couzenage, about her ſtanding</l>
+                  <l>Seven penny pint pots as new landing</l>
+                  <l>On <hi>Engliſh</hi> ſhore: In her face did he ſee,</l>
+                  <l>The true effigies of a Patentee:</l>
+                  <l>At length the Wine he did entend to taſte,</l>
+                  <l>Which ſtunke of Horſefleſh, then was <hi>Pluto</hi> paſt</l>
+                  <l>The bounds of patience, and to all did ſweare,</l>
+                  <l>The firſt Inventer on't ſhould looſe an eare.</l>
+                  <l>He was incenſt ſo far that he did vow</l>
+                  <l>That he hereafter never would allow</l>
+                  <l>Such wicked doings, he wiſhed theſe knaves</l>
+                  <l>Had long agoe been buried in their graves.</l>
+                  <l>If he meant <hi>Abell</hi> now I cannot tell,</l>
+                  <l>I will enquire the next Poſt comes from Hell;</l>
+                  <l>Yet <hi>Abels</hi> ſacrifice was firſt accepted</l>
+                  <l>When wicked <hi>Cains</hi> his brothers diſreſpected.</l>
+                  <l>Then did all other Patents kneele together,</l>
+                  <l>But chiefeſt notice taken was of Leather,</l>
+                  <pb n="6" facs="tcp:93211:4"/>
+                  <l>Which to a Coach transformed was not ſhooes,</l>
+                  <l>Wherefore for him the Furies made a nooſe,</l>
+                  <l>And hung him out a tanning, but the Pope</l>
+                  <l>Being tormented, was quite out of hope</l>
+                  <l>In Hell to gaine redreſſe for's miſeries,</l>
+                  <l>Wherefore with ſpeed to curſed Rome he flies,</l>
+                  <l>Without his Patents, <hi>Charon</hi> would not row</l>
+                  <l>Such damned friends, to all the world a foe:</l>
+                  <l>They are in Hell, and there let them ſtill lie,</l>
+                  <l>Who were the cauſers of much miſery:</l>
+                  <l>Jeſuites are angry becauſe thus I write,</l>
+                  <l>So let them be, theſe lines I doe endite</l>
+                  <l>Onely to them, and each cloſe ſhaved Fryer,</l>
+                  <l>Whom Hell much wants to kindle <hi>Plutoes</hi> fire:</l>
+                  <l>My Muſe is weary of ſo black a theame,</l>
+                  <l>Wherefore ſhees flowne unto her ſiſters ſtreame,</l>
+                  <l>To clenſe her ſelfe, I me ſure anon againe</l>
+                  <l>Shee will returne, then Ile write better ſtraine.</l>
+               </lg>
+            </div>
+            <div type="lecture">
+               <head>An Elegiacall Confabulation <hi>BETWEENE</hi> DEATH and HONOUR.</head>
+               <head type="sub">A Lecture which may be read to the grea<g ref="char:EOLhyphen"/>teſt Monarch in the world.</head>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>WHat horrid Monſter 'iſt which I doe ſee,</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>One that is come to make a coarſe of thee?</l>
+                  <l>Nay, frowne not Honour, thou muſt me obay;</l>
+               </sp>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>What art thou ſlave, which dar'ſt to me thus ſay!</l>
+               </sp>
+               <pb n="7" facs="tcp:93211:4"/>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>My name is death,</l>
+               </sp>
+               <sp>
+                  <speaker>Hon:</speaker>
+                  <l>Death thy ſelfe enlarge,</l>
+                  <l>Tell me thy nature, office, and thy charge.</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>For to declare to thee ſuch things are vaine,</l>
+                  <l>I am triumphant, and demands diſdaine</l>
+                  <l>Of greateſt Monarchs, Death ſtands not in feare;</l>
+                  <l>Than know proud Honour, Death will never ſpare.</l>
+               </sp>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>Baſe Fiend, what art thou which to me doſt talke?</l>
+                  <l>Tell me, what art thou? or elſe quickly walke.</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>Alas poore elfe, doſt thinke to conjure Death,</l>
+                  <l>Thou canſt not, therefore come yeeld up thy breath.</l>
+               </sp>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>Honour yeeld breath, pray tell me unto whom,</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>To Death, therefore with ſpeed prepare thy Tombe.</l>
+                  <l>Honour is vaine, 'tis mortall, quickly gone,</l>
+                  <l>This my keene dart ſhall force the proudeſt groane.</l>
+                  <l>Then Honour ſhake off pride, and avoyd luſt,</l>
+                  <l>Higheſt of honours muſt humbled be 'ith duſt.</l>
+               </sp>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>How Honour humbled? an example ſhow</l>
+                  <l>Then of thy power ſufficient I ſhall know</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>I am content thy pleaſure to fulfill,</l>
+                  <l>Example I will ſhew, then know my skill.</l>
+                  <l>Had not Lord <hi>Wentworth</hi> honours? yes tis true,</l>
+                  <l>Who dare deny it, by valour he it drew,</l>
+                  <l>His wiſdome unto after ages ſhall</l>
+                  <l>Renowned be, and live perpetuall.</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>What is true valour,</l>
+               </sp>
+               <sp>
+                  <speaker>Hon:</speaker>
+                  <l>to overcome 'ith field,</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>But Death doth force greateſt Commanders yeeld.</l>
+               </sp>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>Since Guns and Rapiers firſt invented were</l>
+                  <l>Faint-hearted mortalls, of Death ſtood in feare.</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>Never before did Honour yeeld to me,</l>
+               </sp>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>Never true Honour alwaies ſcap't ſcot-free.</l>
+               </sp>
+               <sp>
+                  <speaker>D:</speaker>
+                  <l>Honour thou lyſt, I am ſure ever yet,</l>
+                  <l>Death ruld the roaſt, man onely turnd the ſpit.</l>
+                  <pb n="8" facs="tcp:93211:5"/>
+                  <l>But yet Ile reall be, Coelick Honour</l>
+                  <l>Is fearleſſe ſtill, though Death diſplay his Banner.</l>
+                  <l>But as for ſuch it deſcends from above,</l>
+                  <l>In man infuſd it is by heavenly <hi>Jove.</hi>
+                  </l>
+                  <l>But yet they die which reall Honour have,</l>
+                  <l>And yet their fame ſurvives, they being in grave.</l>
+                  <l>Thoſe which for terrene honours gape and call,</l>
+                  <l>By ſoaring high oft-times doe catch a fall.</l>
+                  <l>Now anſwer <hi>Honour,</hi> tell to me thy minde,</l>
+                  <l>Where like to Death another canſt thou finde:</l>
+                  <l>What ſilent <hi>Honour,</hi> dar'ſt thou not reply?</l>
+                  <l>Anſwer me quick, this Dart muſt make thee die.</l>
+                  <l>
+                     <hi>Hector</hi> that worthy Prince of famous Troy</l>
+                  <l>I overcame, and with him <hi>Priams</hi> joy.</l>
+                  <l>Theſe greateſt honours had, they Worthies were,</l>
+                  <l>And yet to ſtrike them did not I <hi>Death</hi> feare.</l>
+                  <l>Then ſay no more, that I am too too cruell,</l>
+                  <l>The Fates command that we ſhould fight a duell.</l>
+               </sp>
+               <sp>
+                  <speaker>H:</speaker>
+                  <l>O hold, hold <hi>Death,</hi> to thee doth <hi>Honour</hi> yeeld,</l>
+                  <l>Conquer'd I am, to thee belongs the field:</l>
+                  <l>Thus world adue, farewell yee mortalls all,</l>
+                  <l>Shrubs may ſtand faſt, when talleſt Cedars fall.</l>
+               </sp>
+            </div>
+            <closer>
+               <signed>T. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93211:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
